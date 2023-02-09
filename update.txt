@@ -1,1 +1,2 @@
 {"test":"20221115","main_api":"https://twodexcelapi-default-rtdb.asia-southeast1.firebasedatabase.app/.json","api":"https://raw.githubusercontent.com/winh321/2dnotepro/main/ids.txt","version":"1","data":"","link":"https://www.mediafire.com/file/yt3qpeubg68j25u/TWOD_EXCEL_Pro_2.3.apk/file"}
+
